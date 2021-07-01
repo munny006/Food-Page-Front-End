@@ -1,0 +1,149 @@
+
+
+#getstarted{
+	background: url('../image/5b24d999d5b1007cce317b8a0dd105f3.jpg'); 
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	min-height: 450px;
+	position: relative;
+}
+
+
+.dark-overlay{
+	background: rgba(0,0,0,0.7);
+	position: absolute;
+	top: 0;
+	left: 0;
+	min-height: 100%;
+	width: 100%;
+
+}
+
+.bg{
+	
+	color: white!important;
+}
+.text{
+
+float: left;
+margin-left:504%;	
+font-family: 'Yellowtail', cursive;font-family: 'Yellowtail', cursive;
+
+}
+.mr{
+	float: left;
+	margin-left: -23%;
+	font-size: 21px;
+}
+.icon{
+	color: burlywood !important;
+}
+.icon:hover{
+	text-decoration: none!important;
+	color: white!important;
+}
+.heading{
+font-weight: bold;
+float: left;
+margin-left: 27%;
+font-size: 3.6rem;
+margin-top: 12%;
+
+}
+.heading-one{
+	font-family: 'Castoro', serif;
+	color: black!important;
+	margin-top: 26px;
+
+}
+
+.background{
+	background:  #900C3F ;
+}
+.heading-two{
+	font-family: 'Castoro', serif;
+color: black !important;
+font-size: 46px;
+margin-top: 22px;
+}
+.text-da{
+	color: black;
+}
+.heading-three{
+	font-family: 'Castoro', serif;
+color: green!important;
+font-size: 46px;
+margin-top: 5px;
+}
+.heading-four{
+	font-size: 15px;
+margin-top: 23%;
+font-weight: bold;
+color: black;
+}
+.para1{
+	font-size: 10px;
+color: black;
+}
+	.margin1{
+		margin-top: 24%;
+	}
+
+	.heading-five{
+		color:#f009;
+	}
+	.button{
+	background: #ff0b0ba4;
+color: black;
+
+
+width: 11%;
+height: 45px;
+
+border-radius: 13px;
+	}
+	.overlay{
+	    float: left;
+    margin-left: -83px;
+    height: 393px;
+    background: #80808030;
+	}
+	.font{
+
+	font-weight: 900;
+	letter-spacing: -0.081em;
+	font-size: 3.2rem;
+}
+	.pera2{
+		font-size: 12px;
+margin-inline-start: 81px;
+margin-inline-end: 102px;
+	}
+	.heading-sex{
+font-family: 'Castoro', serif;
+	color: black!important;
+	margin-top: 26px;
+	font-weight: bold;
+	font-size: 2.4rem;
+
+	}
+.bold{
+	font-weight: bold;
+}
+.background-one{
+	background: #d2691e8f;
+
+}
+.icon3{
+	font-size: 25px!important;
+	margin-right: 2px;
+}
+.icon4{
+	font-size: 25px!important;
+	margin-right: 2px;
+}
+.icon5{
+	font-size: 25px!important;
+	margin-right: 2px;
+}
